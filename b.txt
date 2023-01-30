@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+int cubeByreference(int* n);
+
 int main
 {
 
